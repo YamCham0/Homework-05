@@ -9,5 +9,5 @@
 
 [Link Here!](https://yamcham0.github.io/Homework-05/)
 
-![Screenshot of the Daily Planner main page.](assets\images\workDayScheduler.png)
+![Screenshot of the Daily Planner main page.](./assets/images/workDayScheduler.png)
 
